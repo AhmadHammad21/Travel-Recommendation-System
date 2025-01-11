@@ -38,6 +38,8 @@ if there is 20 million reviews, and u want to extract the tags?
 To do next:
 - define the objective and limit it.
 
+Hours consumed
+day 1: 2hours -> exploring the problem and identify the APIs and data to use.
 
 ### Later on
 Travel Recommendation System
